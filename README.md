@@ -8,7 +8,7 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse23-minitutorials
 | ----------- | ----------- |
 | Introduction      | [Slides](https://github.com/sriharikrishna/siamcse23/blob/main/slides/SIAMCSE23_Intro.pdf)       |
 | Seed matrices   | [Slides](https://github.com/sriharikrishna/siamcse23/blob/main/slides/SIAMCSE23_Seeding.pdf)         |
-| Demo & Hands on: Rosenbrock | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/rosenbrock.ipynb)|
+| Demo & Hands on: Rosenbrock | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/rosenbrock_pytorch.ipynb)|
 | Demo & Hands on: Scalar | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/scalar.ipynb)|
 | Demo & Hands on: PyTorch Seeding | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/seeding.ipynb)|
 | Demo & Hands on: Tapenade | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/tapenade.ipynb)|
@@ -36,7 +36,7 @@ pip install jupyterlab
 ```
 3. Open the notebook
 ```
-jupyter notebook rosenbrock.ipynb
+jupyter notebook rosenbrock_pytorch.ipynb
 ```
 ### Option 3: Use python version locally
 1. Clone this repository or download it
