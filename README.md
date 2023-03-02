@@ -9,9 +9,9 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse23-minitutorials
 | Introduction      | [Slides](https://github.com/sriharikrishna/siamcse23/blob/main/Intro.pdf)       |
 | Seed matrices   | [Slides](https://github.com/sriharikrishna/siamcse23/blob/main/Seeding.pdf)         |
 | Demo & Hands on: Rosenbrock | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/rosenbrock_pytorch.ipynb)|
-| Demo & Hands on: PyTorch Seeding | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/seeding.ipynb)|
+| Demo & Hands on: PyTorch Seeding | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/pytorch_seeding.ipynb)|
 | Demo & Hands on: Tapenade | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/tapenade.ipynb)|
-| Demo & Hands on: Enzyme | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/enzyme.ipynb)|
+| Demo & Hands on: Enzyme | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/EnzymeTutorial.ipynb)|
 ## Session 2: Friday, March 3, 11:30 a.m. - 13:10 p.m. CST
 | Content      | Resources |
 | ----------- | ----------- |
