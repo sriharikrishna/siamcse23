@@ -16,9 +16,9 @@ https://www.siam.org/conferences/cm/program/minitutorials/cse23-minitutorials
 | Content      | Resources |
 | ----------- | ----------- |
 | Welcome      | [Slides](https://github.com/sriharikrishna/siamcse23/blob/main/Intro_Session2.pdf)       |
-| Demo & Hands on: PyTorch’s interfacing | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/pytorch_interface.ipynb)|
+| Demo: Integrating Simulations into PyTorch | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/SimulationInML.ipynb)|
 | Demo & Hands on: PINN with PyTorch and Tapenade | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/pinn_tapenade.ipynb)|
-| Demo & Hands on: Example 2 | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/example2.ipynb)|
+| Demo & Hands on: Integrating ML into Simulations | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sriharikrishna/siamcse23/blob/main/MLintoSimulations.ipynb)|
 
 
 
