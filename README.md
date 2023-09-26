@@ -47,3 +47,5 @@ pip install pytorch
 ```
 python rosenbrock.py
 ```
+## Acknowledgement
+This work was partly supported by the Applied Mathematics activity within the U.S. Department of Energy, Office of Science, Advanced Scientific Computing Research Program, under contract number DE-AC02-06CH11357.
